@@ -1,0 +1,7 @@
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Debug\RadialController.UWP.dll
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Debug\RadialController.UWP.pdb
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Debug\RadialController.UWP.csprojResolveAssemblyReference.cache
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Debug\RadialController.UWP.dll
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Debug\RadialController.UWP.pdb
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Debug\UnityEngine.dll
+C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Debug\UnityEngine.xml
