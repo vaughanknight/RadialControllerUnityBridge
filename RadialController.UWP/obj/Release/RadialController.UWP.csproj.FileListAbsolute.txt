@@ -1,7 +1,0 @@
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Release\RadialController.UWP.dll
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Release\RadialController.UWP.pdb
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Release\RadialController.UWP.csprojResolveAssemblyReference.cache
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Release\RadialController.UWP.dll
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\obj\Release\RadialController.UWP.pdb
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Release\UnityEngine.dll
-C:\Projects\vaughan\Vivid\Build\UWP\RadialController.UWP\bin\Release\UnityEngine.xml

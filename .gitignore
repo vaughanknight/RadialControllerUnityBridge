@@ -10,6 +10,8 @@ UnityLibraries/UWP/UnityEngine.dll
 project.lock.json
 WSATestCertificate.pfx
 obj
+obj/**
 bin
+bin/**
 *.pdb
 
