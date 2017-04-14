@@ -31,7 +31,11 @@ namespace RadialControllerHelper
             {
                 if (_instance == null)
                 {
+                    Debug.LogError("Creating bridge instance.");
                     _instance = new RadialControllerUnityBridge();
+
+                    Debug.LogError("Initialising.");
+                    _instance.Initialise();
                 }
                 return _instance;
             }

@@ -1,2 +1,15 @@
 .vs
 .vs/*
+*.meta
+RadialControllerProject/Build
+RadialControllerProject/obj
+RadialControllerProject/Temp
+RadialControllerProject/Library
+RadialControllerProject/Library/**
+UnityLibraries/UWP/UnityEngine.dll
+project.lock.json
+WSATestCertificate.pfx
+obj
+bin
+*.pdb
+

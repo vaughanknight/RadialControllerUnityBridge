@@ -21962,10 +21962,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Projects\\vaughan\\Vivid\\Build\\UWP\\RadialController.UWP.UnityStub\\RadialController.UWP.WSA.csproj",
+      "projectUniqueName": "C:\\Projects\\vaughan\\RadialControllerUnityBridge\\RadialController.UWP.UnityStub\\RadialController.UWP.WSA.csproj",
       "projectName": "RadialController.UWP.WSA",
-      "projectPath": "C:\\Projects\\vaughan\\Vivid\\Build\\UWP\\RadialController.UWP.UnityStub\\RadialController.UWP.WSA.csproj",
-      "projectJsonPath": "C:\\Projects\\vaughan\\Vivid\\Build\\UWP\\RadialController.UWP.UnityStub\\project.json",
+      "projectPath": "C:\\Projects\\vaughan\\RadialControllerUnityBridge\\RadialController.UWP.UnityStub\\RadialController.UWP.WSA.csproj",
+      "projectJsonPath": "C:\\Projects\\vaughan\\RadialControllerUnityBridge\\RadialController.UWP.UnityStub\\project.json",
       "outputType": "UAP"
     },
     "dependencies": {

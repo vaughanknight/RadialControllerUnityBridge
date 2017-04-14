@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-
 namespace RadialControllerHelper.Events
 {
     public class RadialControllerScreenContact

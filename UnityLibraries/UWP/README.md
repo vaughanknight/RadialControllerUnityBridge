@@ -1,0 +1,1 @@
+Copy the UnityEngine.dll from "C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\Managed" to this folder.
