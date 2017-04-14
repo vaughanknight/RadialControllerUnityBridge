@@ -14,4 +14,4 @@ obj/**
 bin
 bin/**
 *.pdb
-
+project.lock.json
