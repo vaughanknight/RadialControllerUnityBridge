@@ -47,10 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\DialControlledRotator.cs" />
+     <Compile Include="Assets\Hover.cs" />
      <Compile Include="Assets\RadialController\RadialControllerBehaviour.cs" />
      <Compile Include="Assets\RadialController\RadialControllerEventManager.cs" />
      <Compile Include="Assets\RadialController\SurfaceDial.cs" />
      <Compile Include="Assets\RadialPraticleDemoController.cs" />
+     <Compile Include="Assets\TrackTarget.cs" />
      <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
