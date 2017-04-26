@@ -28,32 +28,33 @@ public class RadialControllerBehaviour : MonoBehaviour {
     {
         try
         {
-            Debug.LogError("Creating instance.");
+            Debug.Log("Creating RadialControllerUnityBridge Instance.");
             _radialController = RadialControllerUnityBridge.Instance;
         }
         catch(Exception e)
         {
-            Debug.LogErrorFormat("Error while Initialising and configuring Radial Controller. {0}", e.ToString());
+            Debug.LogErrorFormat("Error while Initialising and configuring RadialControllerUnityBridge: {0}", e.StackTrace);
         }
     }
 
     public void Start()
     {
-        Debug.LogError("Setting rotation.");
-        _radialController.RotationResolutionInDegrees = RotationResolution;
+        // RadialController can be in differing states outside of
+        // the Unity so we put all the initialisation in a try/catch 
+        try {
 
-        Debug.LogError("Setting haptic.");
-        _radialController.UseAutomaticHapticFeedback = UseAutomaticHapticFeedback;
+            _radialController.RotationResolutionInDegrees = RotationResolution;
+            _radialController.UseAutomaticHapticFeedback = UseAutomaticHapticFeedback;
 
-        foreach (var m in MenuItems)
+            foreach (var m in MenuItems)
+            {
+                var data = m.Icon.EncodeToPNG();
+                _radialController.AddMenuItem(m.Title, m.Icon);
+            }
+        }
+        catch(Exception e)
         {
-            var data = m.Icon.EncodeToPNG();
-            _radialController.AddMenuItem(m.Title, m.Icon);
+            Debug.LogErrorFormat("Exception creating icons for menu: {0}", e.StackTrace);
         }
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
