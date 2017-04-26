@@ -7,7 +7,7 @@ RadialControllerProject/Temp
 RadialControllerProject/packages
 RadialControllerProject/Library
 RadialControllerProject/Library/**
-UnityLibraries/UWP/UnityEngine.dll
+UnityLibraries/UWP/**
 project.lock.json
 WSATestCertificate.pfx
 obj
