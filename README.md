@@ -8,9 +8,17 @@ Unity Bridge for the Surface Dial / Radial Controller for use in UWP apps.
 ![](https://cloud.githubusercontent.com/assets/252951/25437780/d8cf6f36-2ada-11e7-9516-b3da1969511a.png)
 
 ## Inspector
+The inspector is pretty simple.  Two behaviours exists, although this might change to a single one.  You have the event manager, which is used to hook events with teh radial controller, and the RadialCongrollerBehaviour is used to update the configuration.  It has a custom editor, which as you can see from the image below, gives you the ability to set default precision and haptic feedback settings.
+
+![inpector](https://cloud.githubusercontent.com/assets/252951/25438134/d9498f72-2adb-11e7-9acb-3da813f967a9.PNG)
+
+The next section is where you add menu items.  Set a menu title, and then set the icon image.  The icon is best at 64x64 pixels, and must be configured as a cursor.
+
+
+
+
+## The Demo Project
 
 ![folders](https://cloud.githubusercontent.com/assets/252951/25438129/d6e5ea14-2adb-11e7-95f0-ad44f9124c2b.PNG)
 
-## The Demo Project
-![inpector](https://cloud.githubusercontent.com/assets/252951/25438134/d9498f72-2adb-11e7-9acb-3da813f967a9.PNG)
 
