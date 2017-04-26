@@ -14,7 +14,7 @@ public class TrackTarget : MonoBehaviour
         _thisTransform = this.transform;
         
         iTween.LookTo(gameObject, iTween.Hash("looktarget", Target.transform.position,
-            "time", 4f,
+            "time", 3f,
             "oncomplete", "OnLookComplete",
 //            "delay", 2f,
             "easetype", iTween.EaseType.easeInOutQuart));
@@ -25,7 +25,7 @@ public class TrackTarget : MonoBehaviour
         _Track = true;
         iTween.MoveTo(gameObject, 
             iTween.Hash("position", Destination.transform.position,
-                        "time", 4f,
+                        "time", 2f,
                         "easetype", iTween.EaseType.easeInOutQuart));
     }
 
