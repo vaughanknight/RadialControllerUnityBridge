@@ -93,12 +93,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DialControlledRotator.cs" />
+    <Compile Include="Assets\Demo\DialControlledRotator.cs" />
     <Compile Include="Assets\RadialController\RadialControllerBehaviour.cs" />
     <Compile Include="Assets\RadialController\RadialControllerEventManager.cs" />
-    <Compile Include="Assets\Hover.cs" />
-    <Compile Include="Assets\SurfaceDial.cs" />
-    <Compile Include="Assets\TrackTarget.cs" />
+    <Compile Include="Assets\Demo\Hover.cs" />
+    <Compile Include="Assets\Demo\SurfaceDial.cs" />
+    <Compile Include="Assets\Demo\TrackTarget.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
