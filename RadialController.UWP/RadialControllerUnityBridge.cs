@@ -14,12 +14,16 @@ namespace RadialControllerHelper
 
         public void AddMenuItem(string title, Texture2D icon)
         {
-            Debug.Log("AddMenuItem");
+            Debug.Log("Add Menu Item");
+            // Test the icon can be converted and is read/write enabled
+            // if it fails it will log errors in the editor to save
+            // finding out in the Build
+            var testBytes = icon.EncodeToPNG();
         }
 
         public void Initialise()
         {
-            Debug.LogError("Unity Editor Stub, this message should not occur in UWP build.");
+            Debug.Log("Unity Editor Stub, this message should not occur in UWP build.");
         }
     }
 }
