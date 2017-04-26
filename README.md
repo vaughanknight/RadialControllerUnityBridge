@@ -1,5 +1,8 @@
 # RadialControllerUnityBridge 
 ## Connecting your Surface Dial to your Unity UWP Project
+
+![demo2](https://cloud.githubusercontent.com/assets/252951/25439130/f190b710-2ade-11e7-811f-fcc7d4e87228.gif)
+
 Unity Bridge for the Surface Dial / Radial Controller for use in UWP apps.
 * RadialController.UWP - The UWP Library that the Unity Editor uses
 * RadialController.UWP.WSA - THe UWP Library that is used by the UWP build
