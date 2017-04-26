@@ -12,12 +12,14 @@ The inspector is pretty simple.  Two behaviours exists, although this might chan
 
 ![inpector](https://cloud.githubusercontent.com/assets/252951/25438134/d9498f72-2adb-11e7-9acb-3da813f967a9.PNG)
 
-The next section is where you add menu items.  Set a menu title, and then set the icon image.  The icon is best at 64x64 pixels, and must be configured as a cursor.
+The next section is where you add menu items.  Set a menu title, and then set the icon image.  The icon is best at 64x64 pixels, and must be configured as a cursor.  Example below on how to set that up.
+
+![inpector](https://cloud.githubusercontent.com/assets/252951/25438134/d9498f72-2adb-11e7-9acb-3da813f967a9.PNG)
 
 
+## The Demo Project Folders
 
-
-## The Demo Project
+There are a few folders, the most important to note is the plugins folder.  This contains the bridge DLL and the bridge WSA DLL for the UWP application build.
 
 ![folders](https://cloud.githubusercontent.com/assets/252951/25438129/d6e5ea14-2adb-11e7-95f0-ad44f9124c2b.PNG)
 
