@@ -96,9 +96,8 @@
     <Compile Include="Assets\DialControlledRotator.cs" />
     <Compile Include="Assets\RadialController\RadialControllerBehaviour.cs" />
     <Compile Include="Assets\RadialController\RadialControllerEventManager.cs" />
-    <Compile Include="Assets\RadialPraticleDemoController.cs" />
     <Compile Include="Assets\Hover.cs" />
-    <Compile Include="Assets\RadialController\SurfaceDial.cs" />
+    <Compile Include="Assets\SurfaceDial.cs" />
     <Compile Include="Assets\TrackTarget.cs" />
   </ItemGroup>
   <ItemGroup>
