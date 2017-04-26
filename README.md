@@ -8,8 +8,6 @@ Unity Bridge for the Surface Dial / Radial Controller for use in UWP apps.
 * RadialController.UWP.WSA - THe UWP Library that is used by the UWP build
 * RadialControllerProject - The Unity Demo project to show you how to link everything up
 
-![](https://cloud.githubusercontent.com/assets/252951/25437780/d8cf6f36-2ada-11e7-9516-b3da1969511a.png)
-
 ## Inspector
 The inspector is pretty simple.  Two behaviours exists, although this might change to a single one.  You have the event manager, which is used to hook events with teh radial controller, and the RadialCongrollerBehaviour is used to update the configuration.  It has a custom editor, which as you can see from the image below, gives you the ability to set default precision and haptic feedback settings.
 
