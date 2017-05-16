@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/RadialController/RadialControllerDemo.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/Demo/RadialControllerDemo.unity
+    guid: dfdcd09118acae5478ef96cfa08bf694
