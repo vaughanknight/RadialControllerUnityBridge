@@ -6,7 +6,7 @@ For all the resources in the Surface Dial demo at Build Tour Sydney 2017 you/ve 
 ## James Oliver 
 Twitter: [@JamesDestined](https://twitter.com/JamesDestined)
 
-James is the Digital Learning Manager at MAAS.  Follow James on Twitter to find out when his games are in store!
+James is the Digital Learning Manager at [MAAS](https://maas.museum/).  Follow James on Twitter to find out when his games are in store!
 
 # Vaughan Knight
 Twitter: [@VaughanKnight](https://twitter.com/vaughanknight)
