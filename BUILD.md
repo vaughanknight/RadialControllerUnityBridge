@@ -4,14 +4,14 @@
 For all the resources in the Surface Dial demo at Build Tour Sydney 2017 you/ve come to the right place.
 
 ## James Oliver 
-Twitter: (@JamesDestined)[https://twitter.com/JamesDestined]
+Twitter: [@JamesDestined](https://twitter.com/JamesDestined)
 Github: 
 
 James is the Digital Learning Manager at MAAS.  Follow James on Twitter to find out when his games are in store!
 
 # Vaughan Knight
-Twitter: (@VaughanKnight)[https://twitter.com/vaughanknight]
-Github: (vaughanknight)[https://github.com/vaughanknight/]
+Twitter: [@VaughanKnight](https://twitter.com/vaughanknight)
+Github: [vaughanknight](https://github.com/vaughanknight/)
 Vaughan is the Technical Evangelism Lead at Microsoft.  You are already on the github repo, and you can follow @vaughanknight on Twitter.
 
 ## Surface Dial libraries
