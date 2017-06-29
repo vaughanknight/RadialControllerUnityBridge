@@ -13,7 +13,7 @@ Twitter: [@VaughanKnight](https://twitter.com/vaughanknight)
 
 Github: [vaughanknight](https://github.com/vaughanknight/)
 
-Vaughan is the Technical Evangelism Lead at Microsoft.  You are already on the github repo, and you can follow @vaughanknight on Twitter.
+Vaughan is the Technical Evangelism Lead at Microsoft.  You are already on the github repo.  Follow Vaughan on Twitter to get updates on all things Surface Dial + Unity and more!
 
 ## Surface Dial libraries
 To get the Surface Dial libraries for Unity used by James, just clone this repo and read the README.md.
