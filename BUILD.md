@@ -8,7 +8,7 @@ Twitter: [@JamesDestined](https://twitter.com/JamesDestined)
 
 James is the Digital Learning Manager at [MAAS](https://maas.museum/).  Follow James on Twitter to find out when his games are in store!
 
-# Vaughan Knight
+## Vaughan Knight
 Twitter: [@VaughanKnight](https://twitter.com/vaughanknight)
 
 Github: [vaughanknight](https://github.com/vaughanknight/)
